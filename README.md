@@ -1,4 +1,4 @@
 # CollectiveRepoOOP
 Classwork for collaboration
 
-Diego D´Maurice
+Gabriel Sierra
