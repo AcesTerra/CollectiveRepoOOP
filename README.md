@@ -1,5 +1,6 @@
 # CollectiveRepoOOP
 Classwork for collaboration
 
-Alfredo Garcia
-Diego D´Maurice
+Vargas González Aldo\
+Alfredo Garcia\
+Diego D´Maurice\
